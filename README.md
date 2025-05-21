@@ -55,3 +55,9 @@ Bcl-xL is an anti-apoptotic protein known for its role in promoting tumor surviv
 ![](https://github.com/chingyaousf/Bcl-xL-Deletion-in-Tumors-Cell-Cell-Communication-and-RNA-Velocity-Analysis/blob/main/plots/bclxl/bclxl_clustered_res0.5_UMAP_celltypes.png?raw=true){width="500"}
 
 ![](https://github.com/chingyaousf/Bcl-xL-Deletion-in-Tumors-Cell-Cell-Communication-and-RNA-Velocity-Analysis/blob/main/plots/bclxl/bclxl_clustered_res0.5_var_features.png?raw=true){width="500"}
+
+![](https://github.com/chingyaousf/Bcl-xL-Deletion-in-Tumors-Cell-Cell-Communication-and-RNA-Velocity-Analysis/blob/main/plots/bclxl/bclxl_clustered_res0.5_feature_exp.png?raw=true)
+
+![](https://github.com/chingyaousf/Bcl-xL-Deletion-in-Tumors-Cell-Cell-Communication-and-RNA-Velocity-Analysis/blob/main/plots/bclxl/bclxl_clustered_res0.5_violin_exp2.png?raw=true)
+
+![](https://github.com/chingyaousf/Bcl-xL-Deletion-in-Tumors-Cell-Cell-Communication-and-RNA-Velocity-Analysis/blob/main/plots/bclxl/bclxl_clustered_res0.5_dotplot_top5.png?raw=true)
