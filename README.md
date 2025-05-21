@@ -51,3 +51,5 @@ Bcl-xL is an anti-apoptotic protein known for its role in promoting tumor surviv
 -   Trajectory inference revealed altered developmental paths in KO tumors, indicating changes in cellular differentiation states.
 
 -   Combined analyses from CellChat and Slingshot suggest that Bcl-xL deletion not only reshapes the intercellular communication landscape but also modulates the progression and identity of tumor cell populations.
+
+![](https://github.com/chingyaousf/Bcl-xL-Deletion-in-Tumors-Cell-Cell-Communication-and-RNA-Velocity-Analysis/blob/main/plots/bclxl/bclxl_clustered_res0.5_UMAP_celltypes.png?raw=true){width="500"}
